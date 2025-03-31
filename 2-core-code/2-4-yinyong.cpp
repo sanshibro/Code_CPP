@@ -10,7 +10,7 @@ int main()
     cout << "a的地址为" << (long long)&a << "值为" << a << endl;
     cout << "b的地址为" << (long long)&b << "值为" << b << endl;
     b = 20;
-    cout << "a的地址为" << (long long)&a << "值为" << a << endl;
+    cout << "a的地址为" << (long long)&a << "值为2223" << a << endl;
     cout << "b的地址为" << (long long)&b << "值为" << b << endl;
     
     int &c = b;
