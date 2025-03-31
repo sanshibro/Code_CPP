@@ -55,6 +55,7 @@ void Make(BaseDrink *baseDrink){
 
 int main() {
     // 程序入口
+    // cout << "Hello, World!" << endl;
     cout << "Hello, World!" << endl;
 
     Make(new coffe);
