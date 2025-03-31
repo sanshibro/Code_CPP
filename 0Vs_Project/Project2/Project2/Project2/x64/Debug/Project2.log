@@ -1,0 +1,3 @@
+﻿  FindConnect.cpp
+D:\Code_CPP\0Vs_Project\Project2\Project2\FindConnect.cpp(110,2): warning C4808: 案例“2”不是类型为 “bool” 的切换条件的有效值
+  Project2.vcxproj -> D:\Code_CPP\0Vs_Project\Project2\Project2\x64\Debug\Project2.exe
