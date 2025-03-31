@@ -41,7 +41,7 @@ class Calculator{
 
 int main(){
     Calculator c1(0,0);
-    //构造函数初始化 法二
+    //构造函数初始化 法二123124123
     while(1){
     
     cout<<"请输入数字a"<<endl;
